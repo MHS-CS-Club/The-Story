@@ -3,13 +3,11 @@
 * Password Cracker
 	* Maybe use dictionaries of passwords (or password hashes) and try to guess a user's password based on an encrypted hash submitted from the program user
 	* Make it cool and stuff
-
 * Blockchain
 	* How does a cryptocurrency work?
 	* Simulate a cryptocurrency (like Bitcoin) by using Blockchain ideology
 	* Make secure transactions between multiple users
 	* Every user in the system has a copy of the ledger of *all transactions*
-
 * Club Website
 	* Host projects from different teams all in one place
 	* People viewing the site can download source code of projects and check them out on Github
