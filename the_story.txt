@@ -8,7 +8,7 @@ It was a dark and stormy night...
 
 Paragraph One:
 
-
+"Why does my code have 2,423,564,589 errors??" The programmer wondered.
 
 Paragraph Two:
 
